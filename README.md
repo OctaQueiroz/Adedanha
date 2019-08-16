@@ -1,0 +1,2 @@
+# Adedanha
+É uma aplicação completamente desenvolvida em java durante as aulas de Laboratório de Redes 2 do curso de graduação de Ciências da Computação da PUC Minas. A aplicação consiste em um cliente e um servidor. O servidor aguarda a conexão de 3 clientes e começa o jogo, o primeiro cliente a digitar 5 palavras iniciadas com a letra sorteada, vence, e com isso, uma nova letra é sorteada e o jogo segue indefinidamente.
